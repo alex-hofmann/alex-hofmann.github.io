@@ -1,0 +1,28 @@
+baseURL = "https://alex-hofmann.github.io"
+languageCode = "en-us"
+title = "Alex Hofmann"
+theme = "lekh"
+
+[params]
+Name = "Alex Hofmann"
+About = "Programmer who truly believes you can predict the future with data."
+Email = "alex at alexhof dot com"
+Resume = "https://www.linkedin.com/in/alexphofmann/" # Add the filename with file extension.
+PostLimit = 4 # Sets the number of posts to display on the front page
+GoatCounterCode = ""
+
+[[params.profiles]]
+name = "GitHub"
+url = "https://github.com/alex-hofmann"
+
+[[params.profiles]]
+name = "Twitter"
+url = "https://twitter.com/alexpaulhofmann"
+
+#[[params.profiles]]
+#name = "Goodreads"
+#url = "https://goodreads.com/user/show/91520565-rahul-tiwari"
+
+[[params.profiles]]
+name = "LinkedIn"
+url = "https://linkedin.com/in/alexphofmann/"
